@@ -5,28 +5,24 @@ In out talk, through introducing our experiences and lessons from selected proje
 Our work experiences covers the followings.
 
 - Production
-    - Global development and regular update (UNGSC), workflow from UN Mappers
-    - simple data production using ruby or nodejs scripts
+    - Global development and regular update (UNGSC) of the vector tiles from UN internal data and OSM
+    - simple data production using ruby or nodejs scripts in other projects
 - Styling
     - Development of UNVT/charites
     - Techniques to editing external styles (esri, etc) 
 - Hosting
-    - Development of UNVT/charites
+    - Development of UNVT/marble, an interface for Esri's Geoportal
     - Raspberry pi server
 - Application
     - storytelling
     - 3D expression (boxed-cell) (terrain could be introduced, but we need to make a balance with FOSS4G.)
     - overlay with satellite? (tbd)
     - Data consumption in ArcGIS platform
-- more than one area
-    - equinox, use of raspberry pi 
-    - use of unvt/nanban for windows user
+- Others
+    - equinox - use of UNVT in raspberry pi 
+    - unvt/nanban - use of UNVT in Docker for windows user
     - UNVT in WSL (if possible)
-- Project based example
-    - UNVT deplyment in UNGSC
-    - GSI vector tile development
-    - UNVT Portable
-
+    - Other updates of UNVT application (UNVT deplyment in UNGSC, GSI vector tile development, UNVT Portable)
 
 Resources
 - UNVT Story telling workshop
