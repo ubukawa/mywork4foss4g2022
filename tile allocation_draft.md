@@ -9,6 +9,7 @@
 #### Application examples
 ##### UNGSC example - interface with ArcGIS
 ##### UNVT Portable
+##### WaterGIS (TBD - this will be presented in the separate session.)
 ##### Other raspberry Pi application
 
 #### Conclusion and message to the audiences
